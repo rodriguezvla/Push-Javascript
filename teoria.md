@@ -148,4 +148,8 @@ bd: Un array de objetos con superhéroes predefinidos.
 
 mostrarSuperheroes(): Genera las tarjetas en el div.contenedor.
 
+<<<<<<< HEAD
 Evento click: Captura el nuevo superhéroe y lo agrega a bd.
+=======
+Evento click: Captura el nuevo superhéroe y lo agrega a bd.
+>>>>>>> 71b98900ddcaf9b4df39ee314b84aff875ee7730
