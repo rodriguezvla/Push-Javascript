@@ -149,20 +149,3 @@ bd: Un array de objetos con superhéroes predefinidos.
 mostrarSuperheroes(): Genera las tarjetas en el div.contenedor.
 
 Evento click: Captura el nuevo superhéroe y lo agrega a bd.
-
-4. Mejoras Futuras 🚀
-
-✅ Validar que la URL de la imagen sea correcta.
-✅ Guardar los datos en localStorage para persistencia.
-✅ Permitir eliminar superhéroes de la lista.
-✅ Agregar estilos más atractivos con CSS Grid o Bootstrap.
-
-5. Instrucciones de Uso 📌
-
-Clona este repositorio:
-
-git clone https://github.com/tuusuario/superheroes.git
-
-Abre index.html en tu navegador.
-
-Agrega nuevos superhéroes completando el formulario.
